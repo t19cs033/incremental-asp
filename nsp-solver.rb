@@ -825,8 +825,8 @@ def solve(argv)
         error = false
         stdout.each { |line|
             error = true if line =~ /error/
-            elapsed = (Time.now - start).to_i
-            head = sprintf("c %-3d", elapsed)
+            elapsed = (Time.now - start).to_f
+            head = sprintf("")
             if $verb == :very_verb or ($verb == :verb and not next_is_assignment) or error
                 puts "#{head} #{line}" 
             end
@@ -835,9 +835,14 @@ def solve(argv)
             elsif next_is_assignment
                 assignment = parse_assignment(line)
                 next_is_assignment = false
-            elsif line =~ /^Optimization: (.+)$/                
+            elsif line =~ /^Optimization: (.+)$/
                 total_penalty = $1.split(' ').join(',')
-                print_table(total_penalty, assignment, head)
+                total_penalties = $1.split(' ').map(&:to_i).sum
+                #print_table(total_penalty, assignment, head)
+                print(" time : ")
+                puts(elapsed)
+                puts "#{head} Penalty: #{total_penalty}"
+                puts "#{head} Total_Penalties: #{total_penalties}"
                 $last_sol = { total_penalty: total_penalty, assignment: assignment, elapsed_time: elapsed }                
             elsif line =~ /^SATISFIABLE/            
                 print_table(total_penalty, assignment, head)

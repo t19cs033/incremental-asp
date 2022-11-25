@@ -1,17 +1,101 @@
-% TODO
-% * ソフト制約の効率的解法
-% * 希望シフトのうち，どれがハードでどれかソフトか区別したい
-% * デバッグ用に小さなインスタンスを生成したい（難しい）
-% - JSJS 後に２連休（独自なので要検討）
-% - 土日連休の最大化
-% 要問合せ
-% - 希望勤務のうち，ハードとソフトな希望を指定してほしい（Ruby roo では色などのスタイルの取得はできない）
-%   - 例えは (O) のようにカッコを付けるとソフト，なければハードなど
-% - 常に勤務表の長さは28日か？そうでない場合休日の数は8でよいのか？
-% - 研修の取り扱い
-% - 休日（○）を８回とする制約がそもそも満たせない看護師がいる
-%   - No.8 村松さんはすべての日の希望シフトが記述されているが，○が５個しかない -> 産休のためのようだ
-%   - 現在は 8 * (28 - /,特) / 28 を四捨五入した値を週休の数としている
+%---------------------------------------------------------------------
+% 夜勤必須ペア
+%---------------------------------------------------------------------
+
+:-  required_night_pair(N1, N2, D) , night_working_shift(S), 
+    workable_date(N1, D, _), workable_date(N2, D, _),
+    assigned(N1, D, S), not assigned(N2, D, S).
+
+need_staffs(2).
+need_staffs(4).
+need_staffs(5).
+need_staffs(6).
+need_staffs(7).
+
+%スタッフ16はneed_staffsのうち1人必ず夜勤が一緒になる
+{required_night_pair(16, N2 ,D) : need_staffs(N2)}  >= 1 
+:- workable_date(16, D ,_).
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% ソフト制約の優先度と重み
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+% 各看護師の祝日シフト違反
+#const national_holiday_penalty = 1.
+#const national_holiday_priority = 4.
+
+% 各看護師のソフト休暇シフト違反
+#const soft_holiday_penalty = 1.
+#const soft_holiday_priority = 4.
+
+% 各日 D，各シフト S，各グループ G ごとの人数制約違反
+#const staff_lb_penalty = 1.
+#const staff_ub_penalty = 1.
+#const staff_lb_priority = 5.
+#const staff_ub_priority = 5.
+
+% 各日 D，各シフト S，各グループ G ごとの点数制約違反
+#const point_lb_penalty = 1.
+#const point_ub_penalty = 1.
+#const point_lb_priority = 5.
+#const point_ub_priority = 2.
+
+% 各看護師の担当するシフト数に関する制約違反
+#const shift_lb_penalty = 1.
+#const shift_ub_penalty = 1.
+#const shift_lb_priority = 1.
+#const shift_ub_priority = 2.
+
+% 推奨パターン違反
+#const valid_pattern_penalty = 2.
+#const valid_pattern_priority = 2.
+
+% JSJSOO パターン違反
+#const jsjsoo_penalty = 1.
+#const jsjsoo_priority = 3.
+
+% パターンの出現回数制約違反
+#const pattern_lb_penalty = 1.
+#const pattern_ub_penalty = 1.
+#const pattern_lb_priority = 1.
+#const pattern_ub_priority = 3.
+
+% 夜勤推奨ペアの違反
+#const night_pair_penalty = 1.
+#const night_pair_priority = 0.
+
+% 看護師の希望シフト違反
+#const staff_request_penalty = 1.
+#const staff_request_priority = 6.
+
+% 各看護師の週末休日数に関する制約違反
+#const weekend_off_penalty = 1.
+#const weekend_off_priority = 3.
+
+% 各看護師の祝日休暇数に関する制約違反
+#const national_holiday_off_penalty = 1.
+#const national_holiday_off_priority = 5.
+
+% 各看護師のソフト休暇前後の週休制約違反
+#const additional_holiday_penalty = 1.
+#const additional_holiday_priority = 4.
+
+% 連続勤務違反
+#const full_work_penalty = 1.
+#const full_work_priority = 7.
+
+% 禁止ペア違反
+#const forbidden_night_pair_penalty = 1.
+#const forbidden_night_pair_priority = 7.
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% 目的関数
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+% ペナルティの総和を最小化
+#minimize { P@PRIORITY,CAUSE : penalty(CAUSE, P, PRIORITY) }.
+
+
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 % 看護師ごとのシフトの上下限制約
@@ -129,8 +213,9 @@ penalty(shift_ub(N, S, UB, X), shift_ub_penalty * (X - UB) * (X - UB), shift_ub_
 full_work_period(N, BD, ED) :-
     consecutive_work_ub(UB), base_date(BD), ED=BD+UB-1, base_date(ED),
     staff(N), assigned(N, D) : D = BD..ED.
-% 連続勤務回数を超えてはならない
-:- full_work_period(N, BD, ED), assigned(N, ED+1), date(ED+1).
+% 連続勤務回数を超えてはならない(ソフトのみ)
+penalty(full_work_period(N, BD, ED),full_work_penalty, full_work_priority)
+  :- full_work_period(N, BD, ED), assigned(N, ED+1), date(ED+1).
 % 月末のフル連続勤務で末尾に翌日勤務があるシフトをいれない
 :- full_work_period(N, BD, ED), last_date(ED), assigned(N, ED, S), consecutive_working_shift(S).
 
@@ -301,7 +386,9 @@ unmatch_night_pair(N1, N2, D) :-
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 % 夜勤禁止ペアに関する制約
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-:- forbidden_night_pair(N1, N2), night_working_shift(S), 
+
+penalty(forbidden_night_pair(N1, N2, D, S),forbidden_night_pair_penalty,forbidden_night_pair_priority):-
+    night_working_shift(S), 
     workable_date(N1, D, _), workable_date(N2, D, _),
     assigned(N1, D, S), assigned(N2, D, S).
 
