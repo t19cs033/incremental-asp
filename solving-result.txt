@@ -1,0 +1,312 @@
+Answer: 1
+time: 1190 msec
+Optimization: 0 109 5 18 109 21 10
+Answer: 2
+time: 1222 msec
+Optimization: 0 109 4 26 115 25 6
+Answer: 3
+time: 1223 msec
+Optimization: 0 102 6 28 118 23 6
+Answer: 4
+time: 1238 msec
+Optimization: 0 101 6 28 117 23 6
+Answer: 5
+time: 1418 msec
+Optimization: 0 3 5 26 109 25 6
+Answer: 6
+time: 1578 msec
+Optimization: 0 3 4 20 114 23 4
+Answer: 7
+time: 1635 msec
+Optimization: 0 2 6 27 107 25 8
+Answer: 8
+time: 1830 msec
+Optimization: 0 2 6 25 132 30 6
+Answer: 9
+time: 1844 msec
+Optimization: 0 2 3 28 119 24 7
+Answer: 10
+time: 1847 msec
+Optimization: 0 2 3 28 117 24 7
+Answer: 11
+time: 1885 msec
+Optimization: 0 2 3 25 125 30 6
+Answer: 12
+time: 1898 msec
+Optimization: 0 2 0 23 117 22 8
+Answer: 13
+time: 1992 msec
+Optimization: 0 2 0 23 116 28 7
+Answer: 14
+time: 1994 msec
+Optimization: 0 2 0 23 116 27 7
+Answer: 15
+time: 2032 msec
+Optimization: 0 2 0 23 116 23 8
+Answer: 16
+time: 2057 msec
+Optimization: 0 2 0 23 115 23 8
+Answer: 17
+time: 2076 msec
+Optimization: 0 2 0 23 113 28 8
+Answer: 18
+time: 2092 msec
+Optimization: 0 2 0 23 113 27 8
+Answer: 19
+time: 2104 msec
+Optimization: 0 2 0 22 120 22 6
+Answer: 20
+time: 2122 msec
+Optimization: 0 2 0 21 120 22 6
+Answer: 21
+time: 2145 msec
+Optimization: 0 2 0 20 120 22 6
+Answer: 22
+time: 2159 msec
+Optimization: 0 2 0 20 103 18 4
+Answer: 23
+time: 2174 msec
+Optimization: 0 2 0 20 101 28 8
+Answer: 24
+time: 2176 msec
+Optimization: 0 2 0 19 121 23 6
+Answer: 25
+time: 2186 msec
+Optimization: 0 2 0 19 110 20 8
+Answer: 26
+time: 2188 msec
+Optimization: 0 2 0 19 110 19 8
+Answer: 27
+time: 2190 msec
+Optimization: 0 2 0 19 99 28 8
+Answer: 28
+time: 2193 msec
+Optimization: 0 2 0 19 92 25 8
+Answer: 29
+time: 2195 msec
+Optimization: 0 2 0 19 91 24 8
+Answer: 30
+time: 2197 msec
+Optimization: 0 2 0 18 101 19 8
+Answer: 31
+time: 2202 msec
+Optimization: 0 2 0 18 90 23 8
+Answer: 32
+time: 2217 msec
+Optimization: 0 2 0 17 122 18 3
+Answer: 33
+time: 2233 msec
+Optimization: 0 2 0 17 103 23 8
+Answer: 34
+time: 2258 msec
+Optimization: 0 2 0 16 101 22 4
+Answer: 35
+time: 2273 msec
+Optimization: 0 2 0 16 101 21 8
+Answer: 36
+time: 2275 msec
+Optimization: 0 2 0 16 100 21 8
+Answer: 37
+time: 2278 msec
+Optimization: 0 2 0 16 100 20 8
+Answer: 38
+time: 2289 msec
+Optimization: 0 2 0 15 111 18 6
+Answer: 39
+time: 2309 msec
+Optimization: 0 2 0 15 111 17 6
+Answer: 40
+time: 2311 msec
+Optimization: 0 2 0 14 130 26 6
+Answer: 41
+time: 2319 msec
+Optimization: 0 2 0 13 129 25 6
+Answer: 42
+time: 2329 msec
+Optimization: 0 2 0 12 127 24 6
+Answer: 43
+time: 2343 msec
+Optimization: 0 2 0 10 96 23 4
+Answer: 44
+time: 2437 msec
+Optimization: 0 2 0 9 127 22 6
+Answer: 45
+time: 2475 msec
+Optimization: 0 2 0 9 109 19 6
+Answer: 46
+time: 2490 msec
+Optimization: 0 2 0 9 109 18 6
+Answer: 47
+time: 2504 msec
+Optimization: 0 2 0 9 108 18 6
+Answer: 48
+time: 2523 msec
+Optimization: 0 2 0 9 108 17 6
+Answer: 49
+time: 2538 msec
+Optimization: 0 2 0 9 106 17 6
+Answer: 50
+time: 2604 msec
+Optimization: 0 2 0 9 103 18 6
+Answer: 51
+time: 2623 msec
+Optimization: 0 2 0 9 103 17 6
+Answer: 52
+time: 2653 msec
+Optimization: 0 2 0 9 102 17 6
+Answer: 53
+time: 2671 msec
+Optimization: 0 2 0 9 100 17 6
+Answer: 54
+time: 2685 msec
+Optimization: 0 2 0 9 100 16 6
+Answer: 55
+time: 2705 msec
+Optimization: 0 2 0 9 100 15 6
+Answer: 56
+time: 2801 msec
+Optimization: 0 2 0 9 100 14 6
+Answer: 57
+time: 2863 msec
+Optimization: 0 2 0 9 100 13 6
+Answer: 58
+time: 2898 msec
+Optimization: 0 2 0 8 115 24 6
+Answer: 59
+time: 3321 msec
+Optimization: 0 2 0 8 104 15 2
+Answer: 60
+time: 3327 msec
+Optimization: 0 2 0 8 103 15 2
+Answer: 61
+time: 3331 msec
+Optimization: 0 2 0 8 102 15 2
+Answer: 62
+time: 3335 msec
+Optimization: 0 2 0 8 101 15 2
+Answer: 63
+time: 3340 msec
+Optimization: 0 2 0 8 99 15 2
+Answer: 64
+time: 3344 msec
+Optimization: 0 2 0 8 99 14 2
+Answer: 65
+time: 3348 msec
+Optimization: 0 2 0 8 97 15 2
+Answer: 66
+time: 3354 msec
+Optimization: 0 2 0 8 97 14 2
+Answer: 67
+time: 3355 msec
+Optimization: 0 2 0 7 101 18 4
+Answer: 68
+time: 3787 msec
+Optimization: 0 2 0 7 100 23 4
+Answer: 69
+time: 3790 msec
+Optimization: 0 2 0 7 100 22 4
+Answer: 70
+time: 3792 msec
+Optimization: 0 2 0 7 98 22 4
+Answer: 71
+time: 3795 msec
+Optimization: 0 2 0 7 96 22 4
+Answer: 72
+time: 3826 msec
+Optimization: 0 2 0 7 96 21 4
+Answer: 73
+time: 3831 msec
+Optimization: 0 2 0 7 96 20 4
+Answer: 74
+time: 3833 msec
+Optimization: 0 2 0 6 112 21 6
+Answer: 75
+time: 3970 msec
+Optimization: 0 2 0 6 107 17 4
+Answer: 76
+time: 3973 msec
+Optimization: 0 2 0 6 104 16 4
+Answer: 77
+time: 3997 msec
+Optimization: 0 2 0 6 102 15 4
+Answer: 78
+time: 4000 msec
+Optimization: 0 2 0 4 93 18 8
+Answer: 79
+time: 4149 msec
+Optimization: 0 2 0 4 92 22 6
+Answer: 80
+time: 4169 msec
+Optimization: 0 2 0 4 92 21 6
+Answer: 81
+time: 4171 msec
+Optimization: 0 2 0 3 106 18 8
+Answer: 82
+time: 4202 msec
+Optimization: 0 2 0 3 93 20 6
+Answer: 83
+time: 4212 msec
+Optimization: 0 2 0 3 93 19 6
+Answer: 84
+time: 4250 msec
+Optimization: 0 2 0 3 91 19 6
+Answer: 85
+time: 4258 msec
+Optimization: 0 2 0 3 91 18 6
+Answer: 86
+time: 4261 msec
+Optimization: 0 2 0 3 90 18 6
+Answer: 87
+time: 4310 msec
+Optimization: 0 2 0 3 90 17 6
+Answer: 88
+time: 4357 msec
+Optimization: 0 2 0 3 89 19 6
+Answer: 89
+time: 4363 msec
+Optimization: 0 2 0 3 89 18 6
+Answer: 90
+time: 4365 msec
+Optimization: 0 2 0 3 89 17 6
+Answer: 91
+time: 4368 msec
+Optimization: 0 2 0 3 87 16 6
+Answer: 92
+time: 4376 msec
+Optimization: 0 2 0 0 98 14 8
+Answer: 93
+time: 4800 msec
+Optimization: 0 2 0 0 97 12 6
+Answer: 94
+time: 4805 msec
+Optimization: 0 2 0 0 95 21 6
+Answer: 95
+time: 4844 msec
+Optimization: 0 2 0 0 0 11 4
+Answer: 96
+time: 5117 msec
+Optimization: 0 2 0 0 0 10 4
+Answer: 97
+time: 5127 msec
+Optimization: 0 2 0 0 0 9 4
+Answer: 98
+time: 5525 msec
+Optimization: 0 2 0 0 0 8 6
+Answer: 99
+time: 5583 msec
+Optimization: 0 2 0 0 0 8 0
+Answer: 100
+time: 5595 msec
+Optimization: 0 2 0 0 0 6 0
+Answer: 101
+time: 5807 msec
+Optimization: 0 2 0 0 0 5 4
+Answer: 102
+time: 5933 msec
+Optimization: 0 2 0 0 0 2 5
+Answer: 103
+time: 5983 msec
+Optimization: 0 2 0 0 0 2 0
+
+実行日時: Fri Nov 25 21:06:54 2022
+実行時間: 6092 msec
