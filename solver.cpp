@@ -35,7 +35,7 @@ int main()
 			start = chrono::system_clock::now();
 			cout<<buffer<<endl;
 		}
-        if(!buffer.find("Answer")){
+        else if(!buffer.find("Answer")){
 			elaspse_find_time = chrono::system_clock::now();
 			auto elaspse_time = elaspse_find_time - start;
 			auto msec_elaspse_time = std::chrono::duration_cast<chrono::milliseconds>(elaspse_time).count();
@@ -48,15 +48,24 @@ int main()
 			fout<<" msec"<<endl;
 			cout<<" msec"<<endl;
 		}
-		if(!buffer.find("Optimization:")){
+		else if(!buffer.find("Optimization:")){
         	fout<<buffer<<endl;
 			cout<<buffer<<endl;
 		}
-		if(!buffer.find("OPTIMUM FOUND")){
+		else if(!buffer.find("OPTIMUM FOUND")){
 			end = chrono::system_clock::now();
 			cout<<buffer<<endl;
 		}
-		
+		else if(!buffer.find("Models")){
+			fout<<"--------------------「統計」--------------------"<<endl;
+			cout<<"--------------------「統計」--------------------"<<endl;
+			fout<<buffer<<endl;
+			cout<<buffer<<endl;
+		}
+		else if(!buffer.find("OPTIMUM FOUND")){
+			fout<<buffer<<endl;
+			cout<<buffer<<endl;
+		}
 
 	}
  
