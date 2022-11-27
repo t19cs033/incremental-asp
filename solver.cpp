@@ -11,25 +11,25 @@ using namespace std;
 int main(int argc, char *argv[])
 {
 	//ハード制約なし 64スレッド
-	//string cmd = "clingo nsp-prepro.lp no-hard-opt-rules.lp facts.lp --stats -t 64";
+	//string cmd = "clingo nsp-prepro.lp no-hard-opt-rules.lp SATfacts.lp --stats -t 64";
 	//最適制約 64スレッド
-	//string cmd = "clingo nsp-prepro.lp opt-rules.lp facts.lp --stats -t 64";
+	//string cmd = "clingo nsp-prepro.lp opt-rules.lp SATfacts.lp --stats -t 64";
 	//ハード制約なし 8スレッド
-	//string cmd = "clingo nsp-prepro.lp no-hard-opt-rules.lp facts.lp --stats -t 8";
+	//string cmd = "clingo nsp-prepro.lp no-hard-opt-rules.lp SATfacts.lp --stats -t 8";
 	//最適制約 8スレッド
-	//string cmd = "clingo nsp-prepro.lp opt-rules.lp facts.lp --stats -t 8";
+	//string cmd = "clingo nsp-prepro.lp opt-rules.lp SATfacts.lp --stats -t 8";
 	//ハード制約なし 4スレッド
-	//string cmd = "clingo nsp-prepro.lp no-hard-opt-rules.lp facts.lp --stats -t 4";
+	//string cmd = "clingo nsp-prepro.lp no-hard-opt-rules.lp SATfacts.lp --stats -t 4";
 	//最適制約 4スレッド
-	string cmd = "clingo nsp-prepro.lp opt-rules.lp facts.lp --stats -t 4";
+	//string cmd = "clingo nsp-prepro.lp opt-rules.lp SATfacts.lp --stats -t 4";
 	//ハード制約なし 2スレッド
-	//string cmd = "clingo nsp-prepro.lp no-hard-opt-rules.lp facts.lp --stats -t 2";
+	//string cmd = "clingo nsp-prepro.lp no-hard-opt-rules.lp SATfacts.lp --stats -t 2";
 	//最適制約 2スレッド
-	//string cmd = "clingo nsp-prepro.lp opt-rules.lp facts.lp --stats -t 2";
+	//string cmd = "clingo nsp-prepro.lp opt-rules.lp SATfacts.lp --stats -t 2";
 	//ハード制約なし 1スレッド
-	//string cmd = "clingo nsp-prepro.lp no-hard-opt-rules.lp facts.lp --stats -t 1";
+	//string cmd = "clingo nsp-prepro.lp no-hard-opt-rules.lp SATfacts.lp --stats -t 1";
 	//最適制約 1スレッド
-	//string cmd = "clingo nsp-prepro.lp opt-rules.lp facts.lp --stats -t 1";
+	//string cmd = "clingo nsp-prepro.lp opt-rules.lp SATfacts.lp --stats -t 1";
 /*	
 	int i, opt;
 
