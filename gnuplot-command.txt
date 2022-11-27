@@ -1,0 +1,1 @@
+plot 'opt-64.csv' using 2:3 with linespoints title "priority 6",'opt-64.csv' using 2:4 with linespoints title "priority 5",'opt-64.csv' using 2:5 with linespoints title "priority 4",'opt-64.csv' using 2:6 with linespoints title "priority 3",'opt-64.csv' using 2:7 with linespoints title "priority 2",'opt-64.csv' using 2:8 with linespoints title "priority 1"

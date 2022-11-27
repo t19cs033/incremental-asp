@@ -1,312 +1,382 @@
-Answer: 1
-time: 1190 msec
-Optimization: 0 109 5 18 109 21 10
-Answer: 2
-time: 1222 msec
-Optimization: 0 109 4 26 115 25 6
-Answer: 3
-time: 1223 msec
-Optimization: 0 102 6 28 118 23 6
-Answer: 4
-time: 1238 msec
-Optimization: 0 101 6 28 117 23 6
-Answer: 5
-time: 1418 msec
-Optimization: 0 3 5 26 109 25 6
-Answer: 6
-time: 1578 msec
-Optimization: 0 3 4 20 114 23 4
-Answer: 7
-time: 1635 msec
-Optimization: 0 2 6 27 107 25 8
-Answer: 8
-time: 1830 msec
-Optimization: 0 2 6 25 132 30 6
-Answer: 9
-time: 1844 msec
-Optimization: 0 2 3 28 119 24 7
-Answer: 10
-time: 1847 msec
-Optimization: 0 2 3 28 117 24 7
-Answer: 11
-time: 1885 msec
-Optimization: 0 2 3 25 125 30 6
-Answer: 12
-time: 1898 msec
-Optimization: 0 2 0 23 117 22 8
-Answer: 13
-time: 1992 msec
-Optimization: 0 2 0 23 116 28 7
-Answer: 14
-time: 1994 msec
-Optimization: 0 2 0 23 116 27 7
-Answer: 15
-time: 2032 msec
-Optimization: 0 2 0 23 116 23 8
-Answer: 16
-time: 2057 msec
-Optimization: 0 2 0 23 115 23 8
-Answer: 17
-time: 2076 msec
-Optimization: 0 2 0 23 113 28 8
-Answer: 18
-time: 2092 msec
-Optimization: 0 2 0 23 113 27 8
-Answer: 19
-time: 2104 msec
-Optimization: 0 2 0 22 120 22 6
-Answer: 20
-time: 2122 msec
-Optimization: 0 2 0 21 120 22 6
-Answer: 21
-time: 2145 msec
-Optimization: 0 2 0 20 120 22 6
-Answer: 22
-time: 2159 msec
-Optimization: 0 2 0 20 103 18 4
-Answer: 23
-time: 2174 msec
-Optimization: 0 2 0 20 101 28 8
-Answer: 24
-time: 2176 msec
-Optimization: 0 2 0 19 121 23 6
-Answer: 25
-time: 2186 msec
-Optimization: 0 2 0 19 110 20 8
-Answer: 26
-time: 2188 msec
-Optimization: 0 2 0 19 110 19 8
-Answer: 27
-time: 2190 msec
-Optimization: 0 2 0 19 99 28 8
-Answer: 28
-time: 2193 msec
-Optimization: 0 2 0 19 92 25 8
-Answer: 29
-time: 2195 msec
-Optimization: 0 2 0 19 91 24 8
-Answer: 30
-time: 2197 msec
-Optimization: 0 2 0 18 101 19 8
-Answer: 31
-time: 2202 msec
-Optimization: 0 2 0 18 90 23 8
-Answer: 32
-time: 2217 msec
-Optimization: 0 2 0 17 122 18 3
-Answer: 33
-time: 2233 msec
-Optimization: 0 2 0 17 103 23 8
-Answer: 34
-time: 2258 msec
-Optimization: 0 2 0 16 101 22 4
-Answer: 35
-time: 2273 msec
-Optimization: 0 2 0 16 101 21 8
-Answer: 36
-time: 2275 msec
-Optimization: 0 2 0 16 100 21 8
-Answer: 37
-time: 2278 msec
-Optimization: 0 2 0 16 100 20 8
-Answer: 38
-time: 2289 msec
-Optimization: 0 2 0 15 111 18 6
-Answer: 39
-time: 2309 msec
-Optimization: 0 2 0 15 111 17 6
-Answer: 40
-time: 2311 msec
-Optimization: 0 2 0 14 130 26 6
-Answer: 41
-time: 2319 msec
-Optimization: 0 2 0 13 129 25 6
-Answer: 42
-time: 2329 msec
-Optimization: 0 2 0 12 127 24 6
-Answer: 43
-time: 2343 msec
-Optimization: 0 2 0 10 96 23 4
-Answer: 44
-time: 2437 msec
-Optimization: 0 2 0 9 127 22 6
-Answer: 45
-time: 2475 msec
-Optimization: 0 2 0 9 109 19 6
-Answer: 46
-time: 2490 msec
-Optimization: 0 2 0 9 109 18 6
-Answer: 47
-time: 2504 msec
-Optimization: 0 2 0 9 108 18 6
-Answer: 48
-time: 2523 msec
-Optimization: 0 2 0 9 108 17 6
-Answer: 49
-time: 2538 msec
-Optimization: 0 2 0 9 106 17 6
-Answer: 50
-time: 2604 msec
-Optimization: 0 2 0 9 103 18 6
-Answer: 51
-time: 2623 msec
-Optimization: 0 2 0 9 103 17 6
-Answer: 52
-time: 2653 msec
-Optimization: 0 2 0 9 102 17 6
-Answer: 53
-time: 2671 msec
-Optimization: 0 2 0 9 100 17 6
-Answer: 54
-time: 2685 msec
-Optimization: 0 2 0 9 100 16 6
-Answer: 55
-time: 2705 msec
-Optimization: 0 2 0 9 100 15 6
-Answer: 56
-time: 2801 msec
-Optimization: 0 2 0 9 100 14 6
-Answer: 57
-time: 2863 msec
-Optimization: 0 2 0 9 100 13 6
-Answer: 58
-time: 2898 msec
-Optimization: 0 2 0 8 115 24 6
-Answer: 59
-time: 3321 msec
-Optimization: 0 2 0 8 104 15 2
-Answer: 60
-time: 3327 msec
-Optimization: 0 2 0 8 103 15 2
-Answer: 61
-time: 3331 msec
-Optimization: 0 2 0 8 102 15 2
-Answer: 62
-time: 3335 msec
-Optimization: 0 2 0 8 101 15 2
-Answer: 63
-time: 3340 msec
-Optimization: 0 2 0 8 99 15 2
-Answer: 64
-time: 3344 msec
-Optimization: 0 2 0 8 99 14 2
-Answer: 65
-time: 3348 msec
-Optimization: 0 2 0 8 97 15 2
-Answer: 66
-time: 3354 msec
-Optimization: 0 2 0 8 97 14 2
-Answer: 67
-time: 3355 msec
-Optimization: 0 2 0 7 101 18 4
-Answer: 68
-time: 3787 msec
-Optimization: 0 2 0 7 100 23 4
-Answer: 69
-time: 3790 msec
-Optimization: 0 2 0 7 100 22 4
-Answer: 70
-time: 3792 msec
-Optimization: 0 2 0 7 98 22 4
-Answer: 71
-time: 3795 msec
-Optimization: 0 2 0 7 96 22 4
-Answer: 72
-time: 3826 msec
-Optimization: 0 2 0 7 96 21 4
-Answer: 73
-time: 3831 msec
-Optimization: 0 2 0 7 96 20 4
-Answer: 74
-time: 3833 msec
-Optimization: 0 2 0 6 112 21 6
-Answer: 75
-time: 3970 msec
-Optimization: 0 2 0 6 107 17 4
-Answer: 76
-time: 3973 msec
-Optimization: 0 2 0 6 104 16 4
-Answer: 77
-time: 3997 msec
-Optimization: 0 2 0 6 102 15 4
-Answer: 78
-time: 4000 msec
-Optimization: 0 2 0 4 93 18 8
-Answer: 79
-time: 4149 msec
-Optimization: 0 2 0 4 92 22 6
-Answer: 80
-time: 4169 msec
-Optimization: 0 2 0 4 92 21 6
-Answer: 81
-time: 4171 msec
-Optimization: 0 2 0 3 106 18 8
-Answer: 82
-time: 4202 msec
-Optimization: 0 2 0 3 93 20 6
-Answer: 83
-time: 4212 msec
-Optimization: 0 2 0 3 93 19 6
-Answer: 84
-time: 4250 msec
-Optimization: 0 2 0 3 91 19 6
-Answer: 85
-time: 4258 msec
-Optimization: 0 2 0 3 91 18 6
-Answer: 86
-time: 4261 msec
-Optimization: 0 2 0 3 90 18 6
-Answer: 87
-time: 4310 msec
-Optimization: 0 2 0 3 90 17 6
-Answer: 88
-time: 4357 msec
-Optimization: 0 2 0 3 89 19 6
-Answer: 89
-time: 4363 msec
-Optimization: 0 2 0 3 89 18 6
-Answer: 90
-time: 4365 msec
-Optimization: 0 2 0 3 89 17 6
-Answer: 91
-time: 4368 msec
-Optimization: 0 2 0 3 87 16 6
-Answer: 92
-time: 4376 msec
-Optimization: 0 2 0 0 98 14 8
-Answer: 93
-time: 4800 msec
-Optimization: 0 2 0 0 97 12 6
-Answer: 94
-time: 4805 msec
-Optimization: 0 2 0 0 95 21 6
-Answer: 95
-time: 4844 msec
-Optimization: 0 2 0 0 0 11 4
-Answer: 96
-time: 5117 msec
-Optimization: 0 2 0 0 0 10 4
-Answer: 97
-time: 5127 msec
-Optimization: 0 2 0 0 0 9 4
-Answer: 98
-time: 5525 msec
-Optimization: 0 2 0 0 0 8 6
-Answer: 99
-time: 5583 msec
-Optimization: 0 2 0 0 0 8 0
-Answer: 100
-time: 5595 msec
-Optimization: 0 2 0 0 0 6 0
-Answer: 101
-time: 5807 msec
-Optimization: 0 2 0 0 0 5 4
-Answer: 102
-time: 5933 msec
-Optimization: 0 2 0 0 0 2 5
-Answer: 103
-time: 5983 msec
-Optimization: 0 2 0 0 0 2 0
-
-実行日時: Fri Nov 25 21:06:54 2022
-実行時間: 6092 msec
+------------------------------「演算結果」------------------------------
+          | 経過時間(ミリ秒)| ペナルティ(プライオリティ順)
+ 1 | time: 33 msec | Optimization: 61 13348 2 12 71 88
+ 2 | time: 34 msec | Optimization: 61 13220 2 12 71 88
+ 3 | time: 36 msec | Optimization: 60 13539 2 12 56 88
+ 4 | time: 37 msec | Optimization: 60 13411 2 12 56 88
+ 5 | time: 39 msec | Optimization: 60 13293 2 12 67 88
+ 6 | time: 40 msec | Optimization: 60 13206 2 12 69 88
+ 7 | time: 44 msec | Optimization: 60 13190 1 13 69 88
+ 8 | time: 80 msec | Optimization: 60 13186 1 13 59 88
+ 9 | time: 83 msec | Optimization: 60 13185 1 14 60 88
+ 10 | time: 86 msec | Optimization: 60 13185 1 13 60 88
+ 11 | time: 88 msec | Optimization: 60 13185 1 13 59 88
+ 12 | time: 91 msec | Optimization: 60 13185 1 13 58 88
+ 13 | time: 93 msec | Optimization: 60 13182 1 13 58 88
+ 14 | time: 96 msec | Optimization: 60 13181 1 13 58 88
+ 15 | time: 98 msec | Optimization: 60 13181 1 12 59 88
+ 16 | time: 101 msec | Optimization: 60 13181 1 12 58 88
+ 17 | time: 103 msec | Optimization: 60 13165 1 12 58 88
+ 18 | time: 106 msec | Optimization: 60 13164 1 12 58 88
+ 19 | time: 109 msec | Optimization: 60 13149 1 12 59 88
+ 20 | time: 112 msec | Optimization: 60 13149 1 12 58 88
+ 21 | time: 115 msec | Optimization: 60 13136 1 12 58 88
+ 22 | time: 118 msec | Optimization: 60 13125 1 12 58 88
+ 23 | time: 121 msec | Optimization: 60 13117 1 12 58 88
+ 24 | time: 124 msec | Optimization: 60 13116 1 12 58 88
+ 25 | time: 126 msec | Optimization: 60 13109 1 12 58 88
+ 26 | time: 129 msec | Optimization: 60 13104 1 12 58 88
+ 27 | time: 132 msec | Optimization: 60 13101 1 12 58 88
+ 28 | time: 135 msec | Optimization: 60 13100 1 12 58 88
+ 29 | time: 137 msec | Optimization: 60 13095 1 12 58 88
+ 30 | time: 140 msec | Optimization: 60 13093 1 12 60 88
+ 31 | time: 141 msec | Optimization: 60 13092 2 12 60 88
+ 32 | time: 144 msec | Optimization: 60 13092 1 12 60 88
+ 33 | time: 146 msec | Optimization: 60 13092 1 12 59 88
+ 34 | time: 147 msec | Optimization: 60 13091 1 12 59 88
+ 35 | time: 150 msec | Optimization: 60 13091 1 12 58 88
+ 36 | time: 154 msec | Optimization: 60 12976 1 12 58 88
+ 37 | time: 157 msec | Optimization: 60 12868 1 12 58 88
+ 38 | time: 160 msec | Optimization: 60 12867 1 12 59 88
+ 39 | time: 163 msec | Optimization: 60 12867 1 12 58 88
+ 40 | time: 166 msec | Optimization: 60 12764 1 12 58 88
+ 41 | time: 202 msec | Optimization: 60 12761 1 12 60 88
+ 42 | time: 204 msec | Optimization: 60 12761 1 12 59 88
+ 43 | time: 205 msec | Optimization: 60 12758 1 12 63 88
+ 44 | time: 209 msec | Optimization: 60 12758 1 12 62 88
+ 45 | time: 211 msec | Optimization: 60 12757 1 12 62 88
+ 46 | time: 214 msec | Optimization: 60 12757 1 12 59 88
+ 47 | time: 217 msec | Optimization: 60 12757 1 12 58 88
+ 48 | time: 220 msec | Optimization: 60 12756 1 12 59 88
+ 49 | time: 222 msec | Optimization: 60 12756 1 12 58 88
+ 50 | time: 226 msec | Optimization: 60 12733 1 12 59 88
+ 51 | time: 230 msec | Optimization: 60 12733 1 12 58 88
+ 52 | time: 234 msec | Optimization: 60 12713 1 12 59 88
+ 53 | time: 238 msec | Optimization: 60 12712 1 12 59 88
+ 54 | time: 241 msec | Optimization: 60 12695 1 13 59 88
+ 55 | time: 245 msec | Optimization: 60 12694 1 13 59 88
+ 56 | time: 247 msec | Optimization: 60 12694 1 12 59 88
+ 57 | time: 250 msec | Optimization: 60 12677 1 12 59 88
+ 58 | time: 254 msec | Optimization: 60 12662 1 12 60 88
+ 59 | time: 258 msec | Optimization: 60 12662 1 12 59 88
+ 60 | time: 261 msec | Optimization: 60 12649 1 12 60 88
+ 61 | time: 265 msec | Optimization: 60 12639 1 13 64 88
+ 62 | time: 269 msec | Optimization: 60 12639 1 12 64 88
+ 63 | time: 271 msec | Optimization: 60 12639 1 12 61 88
+ 64 | time: 273 msec | Optimization: 60 12638 1 12 61 88
+ 65 | time: 276 msec | Optimization: 60 12638 1 12 60 88
+ 66 | time: 279 msec | Optimization: 60 12638 1 12 59 88
+ 67 | time: 282 msec | Optimization: 60 12630 2 12 59 88
+ 68 | time: 286 msec | Optimization: 60 12629 2 12 60 88
+ 69 | time: 290 msec | Optimization: 60 12629 2 12 59 88
+ 70 | time: 293 msec | Optimization: 60 12629 1 13 60 88
+ 71 | time: 296 msec | Optimization: 60 12629 1 12 60 88
+ 72 | time: 299 msec | Optimization: 60 12629 1 12 59 88
+ 73 | time: 302 msec | Optimization: 60 12626 1 14 61 88
+ 74 | time: 306 msec | Optimization: 60 12621 1 14 61 88
+ 75 | time: 310 msec | Optimization: 60 12618 1 14 62 88
+ 76 | time: 314 msec | Optimization: 60 12617 1 14 66 88
+ 77 | time: 316 msec | Optimization: 60 12617 1 14 65 88
+ 78 | time: 317 msec | Optimization: 60 12617 1 14 63 88
+ 79 | time: 319 msec | Optimization: 60 12617 1 14 62 88
+ 80 | time: 356 msec | Optimization: 60 12538 1 14 67 87
+ 81 | time: 358 msec | Optimization: 60 12537 1 14 67 87
+ 82 | time: 360 msec | Optimization: 60 12499 1 14 71 86
+ 83 | time: 362 msec | Optimization: 60 12498 1 14 76 86
+ 84 | time: 364 msec | Optimization: 60 12498 1 14 71 86
+ 85 | time: 365 msec | Optimization: 60 12498 1 13 72 86
+ 86 | time: 367 msec | Optimization: 60 12498 1 13 71 86
+ 87 | time: 368 msec | Optimization: 60 12498 1 13 70 86
+ 88 | time: 370 msec | Optimization: 60 12496 1 14 71 87
+ 89 | time: 372 msec | Optimization: 60 12496 1 14 71 86
+ 90 | time: 376 msec | Optimization: 60 12496 1 14 70 86
+ 91 | time: 378 msec | Optimization: 60 12496 1 13 71 86
+ 92 | time: 411 msec | Optimization: 60 12496 1 13 70 86
+ 93 | time: 414 msec | Optimization: 60 12496 1 13 69 86
+ 94 | time: 418 msec | Optimization: 60 12492 1 13 71 86
+ 95 | time: 422 msec | Optimization: 60 12492 1 13 70 86
+ 96 | time: 425 msec | Optimization: 60 12492 1 13 68 86
+ 97 | time: 428 msec | Optimization: 60 12492 1 13 67 86
+ 98 | time: 501 msec | Optimization: 60 12101 1 14 83 78
+ 99 | time: 503 msec | Optimization: 60 12072 1 14 83 78
+ 100 | time: 505 msec | Optimization: 60 12046 1 14 84 78
+ 101 | time: 509 msec | Optimization: 60 12043 1 15 88 76
+ 102 | time: 511 msec | Optimization: 60 12043 1 15 87 76
+ 103 | time: 512 msec | Optimization: 60 12040 1 15 90 76
+ 104 | time: 514 msec | Optimization: 60 12015 1 14 90 76
+ 105 | time: 516 msec | Optimization: 60 12014 1 14 93 76
+ 106 | time: 518 msec | Optimization: 60 12014 1 14 92 76
+ 107 | time: 519 msec | Optimization: 60 12014 1 14 91 76
+ 108 | time: 521 msec | Optimization: 60 12000 1 14 91 76
+ 109 | time: 523 msec | Optimization: 60 11999 1 14 84 78
+ 110 | time: 525 msec | Optimization: 60 11998 1 14 93 78
+ 111 | time: 527 msec | Optimization: 60 11991 1 14 97 76
+ 112 | time: 530 msec | Optimization: 60 11981 1 15 92 78
+ 113 | time: 533 msec | Optimization: 60 11966 1 14 92 78
+ 114 | time: 535 msec | Optimization: 60 11951 1 15 97 76
+ 115 | time: 537 msec | Optimization: 60 11951 1 15 94 76
+ 116 | time: 539 msec | Optimization: 60 11951 1 15 91 76
+ 117 | time: 549 msec | Optimization: 60 11950 1 15 89 76
+ 118 | time: 551 msec | Optimization: 60 11936 1 13 104 76
+ 119 | time: 554 msec | Optimization: 60 11935 1 13 103 76
+ 120 | time: 555 msec | Optimization: 60 11935 1 13 100 76
+ 121 | time: 557 msec | Optimization: 60 11934 1 13 100 76
+ 122 | time: 559 msec | Optimization: 60 11927 1 13 98 78
+ 123 | time: 561 msec | Optimization: 60 11926 1 13 98 78
+ 124 | time: 564 msec | Optimization: 60 11926 1 13 97 78
+ 125 | time: 570 msec | Optimization: 60 11926 1 13 95 78
+ 126 | time: 574 msec | Optimization: 60 11926 1 13 94 78
+ 127 | time: 576 msec | Optimization: 60 11926 1 13 92 78
+ 128 | time: 590 msec | Optimization: 60 11926 1 13 91 78
+ 129 | time: 592 msec | Optimization: 60 11926 1 13 89 78
+ 130 | time: 629 msec | Optimization: 60 11925 1 17 113 78
+ 131 | time: 634 msec | Optimization: 60 11925 1 17 112 78
+ 132 | time: 636 msec | Optimization: 60 11925 1 16 113 78
+ 133 | time: 640 msec | Optimization: 60 11925 1 16 112 78
+ 134 | time: 642 msec | Optimization: 60 11925 1 16 110 78
+ 135 | time: 644 msec | Optimization: 60 11925 1 16 109 78
+ 136 | time: 646 msec | Optimization: 60 11925 1 16 108 78
+ 137 | time: 649 msec | Optimization: 60 11925 1 15 108 78
+ 138 | time: 652 msec | Optimization: 60 11925 1 14 97 78
+ 139 | time: 850 msec | Optimization: 60 11868 1 15 103 76
+ 140 | time: 852 msec | Optimization: 60 11867 1 14 105 76
+ 141 | time: 854 msec | Optimization: 60 11811 1 14 112 76
+ 142 | time: 856 msec | Optimization: 60 11811 1 14 111 76
+ 143 | time: 858 msec | Optimization: 60 11811 1 14 109 76
+ 144 | time: 859 msec | Optimization: 60 11811 1 14 108 76
+ 145 | time: 861 msec | Optimization: 60 11811 1 14 107 76
+ 146 | time: 863 msec | Optimization: 60 11811 1 14 106 76
+ 147 | time: 909 msec | Optimization: 60 11811 1 14 105 76
+ 148 | time: 913 msec | Optimization: 60 11811 1 14 104 76
+ 149 | time: 916 msec | Optimization: 60 11811 1 14 103 76
+ 150 | time: 955 msec | Optimization: 60 11775 1 14 107 74
+ 151 | time: 958 msec | Optimization: 60 11775 1 14 106 74
+ 152 | time: 961 msec | Optimization: 60 11760 1 14 110 74
+ 153 | time: 964 msec | Optimization: 60 11760 1 14 108 74
+ 154 | time: 966 msec | Optimization: 60 11760 1 14 106 74
+ 155 | time: 969 msec | Optimization: 60 11751 1 14 110 74
+ 156 | time: 1037 msec | Optimization: 60 11748 1 15 111 74
+ 157 | time: 1040 msec | Optimization: 60 11748 1 14 111 74
+ 158 | time: 1043 msec | Optimization: 60 11748 1 14 110 74
+ 159 | time: 1045 msec | Optimization: 60 11748 1 14 107 74
+ 160 | time: 1047 msec | Optimization: 60 11748 1 14 106 74
+ 161 | time: 1050 msec | Optimization: 60 11745 1 14 111 74
+ 162 | time: 1053 msec | Optimization: 60 11745 1 14 109 74
+ 163 | time: 1056 msec | Optimization: 60 11745 1 14 108 74
+ 164 | time: 1058 msec | Optimization: 60 11745 1 14 107 74
+ 165 | time: 1062 msec | Optimization: 60 11745 1 14 106 74
+ 166 | time: 1065 msec | Optimization: 60 11744 1 14 107 74
+ 167 | time: 1067 msec | Optimization: 60 11744 1 14 106 74
+ 168 | time: 1070 msec | Optimization: 60 11743 1 14 106 74
+ 169 | time: 1073 msec | Optimization: 60 11741 1 14 108 74
+ 170 | time: 1075 msec | Optimization: 60 11740 1 14 108 74
+ 171 | time: 1079 msec | Optimization: 60 11738 1 14 108 74
+ 172 | time: 1082 msec | Optimization: 60 11679 1 14 112 73
+ 173 | time: 1086 msec | Optimization: 60 11679 1 14 109 73
+ 174 | time: 1088 msec | Optimization: 60 11679 1 14 108 73
+ 175 | time: 1091 msec | Optimization: 60 11676 1 14 110 73
+ 176 | time: 1094 msec | Optimization: 60 11674 1 15 110 74
+ 177 | time: 1097 msec | Optimization: 60 11674 1 15 110 73
+ 178 | time: 1100 msec | Optimization: 60 11674 1 14 111 73
+ 179 | time: 1102 msec | Optimization: 60 11674 1 14 110 73
+ 180 | time: 1106 msec | Optimization: 60 11654 1 14 114 72
+ 181 | time: 1109 msec | Optimization: 60 11654 1 14 112 72
+ 182 | time: 1113 msec | Optimization: 60 11654 1 14 111 72
+ 183 | time: 1115 msec | Optimization: 60 11654 1 14 110 72
+ 184 | time: 1119 msec | Optimization: 60 11649 1 14 114 72
+ 185 | time: 1122 msec | Optimization: 60 11649 1 14 113 72
+ 186 | time: 1126 msec | Optimization: 60 11649 1 14 111 72
+ 187 | time: 1132 msec | Optimization: 60 11648 1 14 116 73
+ 188 | time: 1136 msec | Optimization: 60 11648 1 14 115 73
+ 189 | time: 1139 msec | Optimization: 60 11648 1 14 115 72
+ 190 | time: 1143 msec | Optimization: 60 11648 1 14 113 73
+ 191 | time: 1145 msec | Optimization: 60 11648 1 14 113 72
+ 192 | time: 1150 msec | Optimization: 60 11639 1 15 118 73
+ 193 | time: 1153 msec | Optimization: 60 11639 1 15 117 73
+ 194 | time: 1155 msec | Optimization: 60 11639 1 14 119 73
+ 195 | time: 1158 msec | Optimization: 60 11639 1 14 117 73
+ 196 | time: 1161 msec | Optimization: 60 11639 1 14 117 72
+ 197 | time: 1164 msec | Optimization: 60 11638 1 14 122 72
+ 198 | time: 1169 msec | Optimization: 60 11638 1 14 120 73
+ 199 | time: 1172 msec | Optimization: 60 11638 1 14 120 72
+ 200 | time: 1179 msec | Optimization: 60 11638 1 14 119 72
+ 201 | time: 1182 msec | Optimization: 60 11638 1 14 118 72
+ 202 | time: 1184 msec | Optimization: 60 11638 1 14 117 72
+ 203 | time: 1187 msec | Optimization: 60 11637 1 14 124 72
+ 204 | time: 1190 msec | Optimization: 60 11637 1 14 122 72
+ 205 | time: 1192 msec | Optimization: 60 11633 1 14 126 72
+ 206 | time: 1196 msec | Optimization: 60 11633 1 14 126 71
+ 207 | time: 1199 msec | Optimization: 60 11633 1 14 124 72
+ 208 | time: 1202 msec | Optimization: 60 11633 1 14 124 71
+ 209 | time: 1208 msec | Optimization: 60 11631 1 14 128 71
+ 210 | time: 1212 msec | Optimization: 60 11631 1 14 126 72
+ 211 | time: 1219 msec | Optimization: 60 11630 1 14 122 71
+ 212 | time: 1222 msec | Optimization: 60 11626 1 14 126 71
+ 213 | time: 1225 msec | Optimization: 60 11625 1 14 124 72
+ 214 | time: 1229 msec | Optimization: 60 11624 1 14 128 72
+ 215 | time: 1237 msec | Optimization: 60 11566 1 14 127 69
+ 216 | time: 1241 msec | Optimization: 60 11565 1 14 129 69
+ 217 | time: 1244 msec | Optimization: 60 11565 1 14 127 69
+ 218 | time: 1246 msec | Optimization: 60 11565 1 14 126 69
+ 219 | time: 1248 msec | Optimization: 60 11565 1 14 124 69
+ 220 | time: 1251 msec | Optimization: 60 11561 1 14 128 69
+ 221 | time: 1255 msec | Optimization: 60 11561 1 14 126 69
+ 222 | time: 1258 msec | Optimization: 60 11560 1 14 126 70
+ 223 | time: 1261 msec | Optimization: 60 11560 1 14 124 70
+ 224 | time: 1264 msec | Optimization: 60 11559 1 14 130 70
+ 225 | time: 1266 msec | Optimization: 60 11559 1 14 128 70
+ 226 | time: 1270 msec | Optimization: 60 11559 1 14 128 69
+ 227 | time: 1271 msec | Optimization: 60 11558 1 14 128 69
+ 228 | time: 1274 msec | Optimization: 60 11558 1 14 124 69
+ 229 | time: 1277 msec | Optimization: 60 11553 1 14 126 70
+ 230 | time: 1281 msec | Optimization: 60 11552 1 14 130 70
+ 231 | time: 1288 msec | Optimization: 60 11516 1 14 126 68
+ 232 | time: 1292 msec | Optimization: 60 11516 1 14 125 69
+ 233 | time: 1294 msec | Optimization: 60 11516 1 14 124 69
+ 234 | time: 1297 msec | Optimization: 60 11511 1 14 126 70
+ 235 | time: 1301 msec | Optimization: 60 11510 1 14 130 70
+ 236 | time: 1304 msec | Optimization: 60 11510 1 14 126 69
+ 237 | time: 1307 msec | Optimization: 60 11509 1 14 126 69
+ 238 | time: 1310 msec | Optimization: 60 11505 1 14 130 69
+ 239 | time: 1313 msec | Optimization: 60 11504 1 14 128 70
+ 240 | time: 1316 msec | Optimization: 60 11503 1 14 132 70
+ 241 | time: 1359 msec | Optimization: 60 11503 1 14 131 70
+ 242 | time: 1362 msec | Optimization: 60 11503 1 14 130 70
+ 243 | time: 1367 msec | Optimization: 60 11503 1 14 130 69
+ 244 | time: 1370 msec | Optimization: 60 11503 1 14 130 68
+ 245 | time: 1374 msec | Optimization: 60 11503 1 14 130 67
+ 246 | time: 1421 msec | Optimization: 60 11502 1 15 131 68
+ 247 | time: 1426 msec | Optimization: 60 11502 1 15 130 68
+ 248 | time: 1429 msec | Optimization: 60 11502 1 14 134 68
+ 249 | time: 1433 msec | Optimization: 60 11502 1 14 131 68
+ 250 | time: 1436 msec | Optimization: 60 11502 1 14 130 68
+ 251 | time: 1439 msec | Optimization: 60 11502 1 14 128 68
+ 252 | time: 1445 msec | Optimization: 60 11496 1 14 130 68
+ 253 | time: 1450 msec | Optimization: 60 11495 1 15 130 68
+ 254 | time: 1454 msec | Optimization: 60 11495 1 14 130 69
+ 255 | time: 1457 msec | Optimization: 60 11495 1 14 130 68
+ 256 | time: 1463 msec | Optimization: 60 11494 1 15 132 69
+ 257 | time: 1464 msec | Optimization: 60 11493 1 16 132 69
+ 258 | time: 1469 msec | Optimization: 60 11493 1 15 132 69
+ 259 | time: 1471 msec | Optimization: 60 11493 1 15 132 68
+ 260 | time: 1473 msec | Optimization: 60 11493 1 14 133 69
+ 261 | time: 1476 msec | Optimization: 60 11493 1 14 132 69
+ 262 | time: 1479 msec | Optimization: 60 11493 1 14 132 68
+ 263 | time: 1483 msec | Optimization: 60 11493 1 14 130 69
+ 264 | time: 1486 msec | Optimization: 60 11493 1 14 130 68
+ 265 | time: 1525 msec | Optimization: 60 11493 1 14 130 67
+ 266 | time: 1534 msec | Optimization: 60 11421 1 14 140 65
+ 267 | time: 1539 msec | Optimization: 60 11413 2 14 138 65
+ 268 | time: 1545 msec | Optimization: 60 11413 1 15 138 65
+ 269 | time: 1549 msec | Optimization: 60 11413 1 14 141 65
+ 270 | time: 1552 msec | Optimization: 60 11413 1 14 140 65
+ 271 | time: 1555 msec | Optimization: 60 11413 1 14 138 65
+ 272 | time: 1560 msec | Optimization: 60 11409 2 14 139 65
+ 273 | time: 1566 msec | Optimization: 60 11409 2 14 138 65
+ 274 | time: 1567 msec | Optimization: 60 11409 2 14 136 65
+ 275 | time: 1569 msec | Optimization: 60 11409 2 14 135 65
+ 276 | time: 1572 msec | Optimization: 60 11408 2 14 138 65
+ 277 | time: 1576 msec | Optimization: 60 11408 2 14 137 65
+ 278 | time: 1579 msec | Optimization: 60 11407 2 14 137 65
+ 279 | time: 1583 msec | Optimization: 60 11407 2 14 136 65
+ 280 | time: 1587 msec | Optimization: 60 11406 2 14 136 65
+ 281 | time: 1591 msec | Optimization: 60 11406 2 14 134 65
+ 282 | time: 1595 msec | Optimization: 60 11406 1 15 134 65
+ 283 | time: 1598 msec | Optimization: 60 11406 1 14 134 65
+ 284 | time: 1604 msec | Optimization: 60 11400 2 14 152 65
+ 285 | time: 1610 msec | Optimization: 60 11399 2 14 152 65
+ 286 | time: 1614 msec | Optimization: 60 11399 2 14 145 65
+ 287 | time: 1617 msec | Optimization: 60 11399 2 14 140 65
+ 288 | time: 1620 msec | Optimization: 60 11399 2 14 137 65
+ 289 | time: 1623 msec | Optimization: 60 11399 2 14 136 65
+ 290 | time: 1627 msec | Optimization: 60 11399 1 15 136 65
+ 291 | time: 1631 msec | Optimization: 60 11399 1 14 139 65
+ 292 | time: 1634 msec | Optimization: 60 11399 1 14 138 65
+ 293 | time: 1637 msec | Optimization: 60 11399 1 14 136 65
+ 294 | time: 1643 msec | Optimization: 60 11399 1 14 135 66
+ 295 | time: 1646 msec | Optimization: 60 11399 1 14 134 66
+ 296 | time: 1650 msec | Optimization: 60 11399 1 14 134 65
+ 297 | time: 1723 msec | Optimization: 60 11336 2 15 143 66
+ 298 | time: 1729 msec | Optimization: 60 11336 2 14 145 66
+ 299 | time: 1733 msec | Optimization: 60 11336 2 14 142 66
+ 300 | time: 1736 msec | Optimization: 60 11336 2 14 141 66
+ 301 | time: 1739 msec | Optimization: 60 11336 2 14 136 66
+ 302 | time: 1742 msec | Optimization: 60 11336 2 14 134 66
+ 303 | time: 1745 msec | Optimization: 60 11336 2 14 133 66
+ 304 | time: 1748 msec | Optimization: 60 11336 2 14 132 66
+ 305 | time: 1751 msec | Optimization: 60 11334 2 14 137 66
+ 306 | time: 1756 msec | Optimization: 60 11334 1 14 139 66
+ 307 | time: 1760 msec | Optimization: 60 11334 1 14 137 66
+ 308 | time: 1767 msec | Optimization: 60 11323 1 14 136 66
+ 309 | time: 1772 msec | Optimization: 60 11322 1 14 136 66
+ 310 | time: 1776 msec | Optimization: 60 11322 1 14 134 66
+ 311 | time: 1779 msec | Optimization: 60 11322 1 14 134 65
+ 312 | time: 1785 msec | Optimization: 60 11314 1 14 136 64
+ 313 | time: 1900 msec | Optimization: 60 11312 1 14 136 66
+ 314 | time: 1905 msec | Optimization: 60 11312 1 14 136 65
+ 315 | time: 1908 msec | Optimization: 60 11312 1 14 134 65
+ 316 | time: 1917 msec | Optimization: 60 11308 1 14 141 64
+ 317 | time: 1922 msec | Optimization: 60 11304 1 14 136 64
+ 318 | time: 2123 msec | Optimization: 60 11304 1 14 136 63
+ 319 | time: 2244 msec | Optimization: 60 11304 1 14 134 64
+ 320 | time: 2248 msec | Optimization: 60 11304 1 14 134 63
+ 321 | time: 2397 msec | Optimization: 60 11243 2 15 141 64
+ 322 | time: 2404 msec | Optimization: 60 11239 2 15 141 64
+ 323 | time: 2409 msec | Optimization: 60 11239 2 15 139 64
+ 324 | time: 2412 msec | Optimization: 60 11239 2 15 138 65
+ 325 | time: 2414 msec | Optimization: 60 11239 2 15 137 65
+ 326 | time: 2417 msec | Optimization: 60 11239 2 15 137 64
+ 327 | time: 2420 msec | Optimization: 60 11239 2 15 136 64
+ 328 | time: 2423 msec | Optimization: 60 11239 2 14 141 64
+ 329 | time: 2427 msec | Optimization: 60 11239 2 14 140 64
+ 330 | time: 2430 msec | Optimization: 60 11239 2 14 136 64
+ 331 | time: 2434 msec | Optimization: 60 11239 2 14 136 63
+ 332 | time: 2437 msec | Optimization: 60 11239 1 14 138 63
+ 333 | time: 2442 msec | Optimization: 60 11239 1 14 136 64
+ 334 | time: 2445 msec | Optimization: 60 11239 1 14 136 63
+ 335 | time: 2450 msec | Optimization: 60 11214 2 14 140 62
+ 336 | time: 2455 msec | Optimization: 60 11210 2 14 138 63
+ 337 | time: 2469 msec | Optimization: 60 11204 2 14 138 63
+ 338 | time: 2475 msec | Optimization: 60 11202 2 14 138 63
+ 339 | time: 2480 msec | Optimization: 60 11201 2 14 140 63
+ 340 | time: 2556 msec | Optimization: 60 11200 2 14 143 63
+ 341 | time: 2560 msec | Optimization: 60 11200 2 14 142 63
+ 342 | time: 2565 msec | Optimization: 60 11197 2 14 149 63
+ 343 | time: 2570 msec | Optimization: 60 11197 2 14 148 63
+ 344 | time: 2573 msec | Optimization: 60 11197 2 14 146 63
+ 345 | time: 2583 msec | Optimization: 60 11197 1 14 152 63
+ 346 | time: 2587 msec | Optimization: 60 11197 1 14 152 62
+ 347 | time: 2592 msec | Optimization: 60 11188 2 14 146 63
+ 348 | time: 2598 msec | Optimization: 60 11187 2 14 150 63
+ 349 | time: 2604 msec | Optimization: 60 11182 2 14 154 63
+ 350 | time: 2609 msec | Optimization: 60 11181 2 14 150 63
+ 351 | time: 2615 msec | Optimization: 60 11181 2 14 150 62
+ 352 | time: 2629 msec | Optimization: 60 11179 2 14 154 62
+ 353 | time: 2634 msec | Optimization: 60 11179 2 14 152 62
+ 354 | time: 2638 msec | Optimization: 60 11179 2 14 150 62
+ 355 | time: 2672 msec | Optimization: 60 11175 2 14 155 63
+ 356 | time: 2677 msec | Optimization: 60 11175 2 14 154 63
+ 357 | time: 2680 msec | Optimization: 60 11175 2 14 152 63
+ 358 | time: 2689 msec | Optimization: 60 11175 2 14 150 63
+ 359 | time: 2712 msec | Optimization: 60 11174 2 14 152 63
+ 360 | time: 2725 msec | Optimization: 60 11174 2 14 150 64
+ 361 | time: 2731 msec | Optimization: 60 11174 2 14 150 63
+ 362 | time: 2819 msec | Optimization: 60 11162 2 14 156 63
+ 363 | time: 2825 msec | Optimization: 60 11162 2 14 154 64
+ 364 | time: 2829 msec | Optimization: 60 11162 2 14 154 63
+ 365 | time: 2834 msec | Optimization: 60 11159 2 14 160 63
+ 366 | time: 2839 msec | Optimization: 60 11159 2 14 158 63
+ 367 | time: 2842 msec | Optimization: 60 11159 2 14 156 63
+ 368 | time: 2863 msec | Optimization: 60 11158 2 14 156 64
+ 369 | time: 2869 msec | Optimization: 60 11158 2 14 156 63
+ 370 | time: 2884 msec | Optimization: 60 11157 2 14 156 63
+ 371 | time: 2906 msec | Optimization: 60 11157 2 14 154 64
+ 372 | time: 2911 msec | Optimization: 60 11157 2 14 154 63
+ 373 | time: 2973 msec | Optimization: 60 11117 2 14 158 63
+ 374 | time: 2980 msec | Optimization: 60 11116 2 14 158 63
+ 375 | time: 2986 msec | Optimization: 60 11085 2 14 160 63
+ 376 | time: 2991 msec | Optimization: 60 11085 2 14 159 63
+ 377 | time: 2994 msec | Optimization: 60 11085 2 14 158 63
+ 378 | time: 2999 msec | Optimization: 60 11084 2 14 158 63
+ 379 | time: 3015 msec | Optimization: 60 11082 2 14 158 63
+ 380 | time: 3026 msec | Optimization: 60 11082 2 14 156 63
